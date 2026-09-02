@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_js_bundle.png" width="190" alt="JS Bundle Capture logo">
+  <img src="logo_js_bundle.png" width="390" alt="JS Bundle Capture logo">
 </p>
 
 <h1 align="center">JS Bundle Capture</h1>
