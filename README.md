@@ -53,18 +53,6 @@ Analysis results are pattern-based review candidates, not confirmed vulnerabilit
 
 Captured bundles, URLs, snippets, and exported results may contain sensitive engagement data. Handle exports accordingly.
 
-## Build
-
-```bash
-./gradlew clean test jar
-```
-
-Windows Command Prompt:
-
-```bat
-gradlew.bat clean test jar
-```
-
 ## Status
 
 Version **0.3.0 beta**. Feedback and real-world testing are welcome.
