@@ -24,7 +24,7 @@ Everything runs locally. The extension sends no telemetry, executes no captured 
 
 ## Install
 
-1. Download the latest `.jar` from [GitHub Releases](../../releases/latest).
+1. Download the latest `.jar`
 2. In Burp Suite, open **Extensions → Installed → Add**.
 3. Select extension type **Java** and choose the JAR.
 4. Open the new **JS Bundle Capture** tab.
@@ -55,7 +55,7 @@ Captured bundles, URLs, snippets, and exported results may contain sensitive eng
 
 ## Status
 
-Version **0.3.0 beta**. Feedback and real-world testing are welcome.
+Version **0.3.9 beta**. Feedback and real-world testing are welcome.
 
 ## License
 
